@@ -1,9 +1,9 @@
-  ---
-  title: Data Management Plan
-  layout: about
-  permalink: /dmp.html
-  ---
+---
+title: Data Management Plan
+layout: about
+permalink: /dmp.html
+---
 
-  # Data Management Plan
+# Data Management Plan
 
-  Our data management plan.
+Our data management plan.
