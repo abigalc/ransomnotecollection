@@ -13,3 +13,4 @@ credits: true
 ## Project Description
 
 Here is some more info about the project!
+authors: Abigail, Mia, Teagan
