@@ -1,5 +1,5 @@
 ---
 title: DMP
-layout: page
+layout: about
 permalink: /dmp.html
 ---
