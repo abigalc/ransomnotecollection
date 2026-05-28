@@ -3,17 +3,23 @@ title: DMP
 layout: about
 permalink: /dmp.html
 ---
-#Data Management Plan
+##Data Management Plan
+
 DSCI / LIB 350M: Humanities Research Data Management 
 Authors: Teagan Sloan, Mia Middendorff, Abigail Callahan
 
-Section 1: Project Overview
+#Section 1: Project Overview
+
 This collection brings together ransom notes, newspaper coverage, photographs, and related ephemera from some of the most notorious kidnapping and ransom cases in American history that ended in murder, including the Lindbergh baby kidnapping (1932), the abduction and murder of Charles Mattson (1936), the Adolph Coors III case (1960), and others. At the heart of the collection are the ransom notes themselves, handwritten and typed demands that served as both the criminal's primary means of communication and, ultimately, key pieces of forensic evidence used to identify and convict perpetrators. Surrounding these documents are newspaper clippings that reveal how the press shaped public perception of these crimes, as well as photographs of the victims, suspects, crime scenes, and investigators involved.
 The theme of this collection matters because ransom notes allow a unique intersection of crime, communication, and forensic science. These documents transformed how American law enforcement approached kidnapping investigations, contributed to the passage of the Federal Kidnapping Act ("Lindbergh Law") in 1932, and pioneered the use of questioned document examination as a forensic discipline. We hope this collection will be valuable to students of criminal justice and forensic linguistics, true crime researchers, journalism historians studying tabloid coverage of the early-to-mid twentieth century, and general readers fascinated by how these high-profile cases shaped American legal and cultural history. Visitors might use the collection to compare the linguistic and handwriting features across notes, trace how newspaper coverage evolved from one case to the next, or examine how famous victims and their families were portrayed in the press. They can also shed light on the events that may have ultimately led to the murders and allow historians to study and learn from these cases. The materials gathered so far come from publicly available digitized newspaper archives such as Chronicling America and Newspapers.com, FBI Records, and Washington State University Libraries Digital Collections, as well as other sources indirectly covering the specific cases.
-Section 2: Roles & Responsibilities
+
+#Section 2: Roles & Responsibilities
+
 Abigail, Mia & Teagan. Each of us looked for 2-3 cases and found information and images to include in the repository. Abigail came up with the idea, and we all agreed and chose Ransom notes out of all other options. Teagan owned the location information as well as the rights statement information. Abigail made the GitHub repository, and as a group, we worked on descriptions and formatting. Mia wrote the description and tagline. 
-Section 3: Data Inventory & Provenance
+
+#Section 3: Data Inventory & Provenance
 This section documents the data of your project and where it came from. 
+
 File type
 Description
 Number
@@ -70,7 +76,7 @@ The Guardian
 Direct download via online catalog 
 Rights Statement
 
-File inventory
+#File inventory
 All of the files in our project/collection are JPG Images. We have 15 total items. File Sizes: 454 KB, 76 KB, 1.5 MB, 75 KB, 90 KB, 2.3 MB, 84 KB, 108 KB, 19.1 MB, 199 KB, 61 KB, 751 KB, 4.4 MB, 210 KB, 120 KB, 78 KB, 270 KB, 48 KB. The total combined storage of our collection is approximately 29.9 MB.
 Tools and access
 Tools used to access data: 
@@ -78,14 +84,18 @@ Github (free, all three of us made an account, and created a shared repository)
 Google Drive (free with an account)
 Google docs, google sheets, google images 
 Collection builder (free open source)
-Section 4: Storage & Stewardship
+
+#Section 4: Storage & Stewardship
+
 Describe where your project lives during the term and what happens to it after; be honest and specific. 
 During the project
 During the project, our Files are stored in Google Drive, which is accessible only to our group members. Our files are also stored in our GitHub Repository, which is publicly available. 
 All of our files are shared between our personal emails to avoid the loss of our materials when our UO emails are closed. Currently, all of our sources and notes can be found in either GitHub or our Google Drive. We all have access to both sites. Our repository is public, but our Google Drive has access limited to the three of us. 
 After term
 All three of us are okay with our repository staying public, and we agreed that it can be taken down whenever needed. If GitHub chooses to delete, that is also okay with all three of us. 
-Section 5: Access, Reuse & Rights
+
+#Section 5: Access, Reuse & Rights
+
 Describe who can use your collection and under what terms and whether there are ethical considerations a user should know about.
 Your license
 We've licensed our original content, the metadata, written descriptions, and site copy, under Creative Commons Attribution 4.0 (CC BY 4.0). This lets others copy, share, and build on our work, including for commercial use, as long as they credit our group. We chose this license because we want the collection to be useful to students, researchers, and the public without unnecessary barriers.
