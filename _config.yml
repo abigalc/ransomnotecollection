@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: Ransom Notes
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: tagline here ig
+tagline: A Curated Collection
 # Various ransome notes and evidence in the form of notes, flyers, and news paper articles from famous ransom cases. 
 # this description might appear in search result lists, keep around 160 characters max
-description: "Various ransom notes ranging from the mid 1800s to the twenty-first century, that resulted in murder by Abigail, Mia, and Teagan" 
+description: "Various ransom notes ranging from the mid 1800s to the twenty-first century, that resulted in murder. Collection created by Abigail, Mia, and Teagan." 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: "Abby, Mia, Teagan"
 
