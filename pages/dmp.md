@@ -41,7 +41,7 @@ Each of us looked for 2-3 cases and found information and images to include in t
 | Wikimedia Commons | 2 | Direct download via online catalog | [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/)|
 | Find a Grave  | 2 | Direct download via online catalog | [In Copyright - Rights-holder(s) Unlocatable or Unidentifiable](http://rightsstatements.org/vocab/InC-RUU/1.0/)|
 | The Guardian | 1 | Direct download via online catalog | [In Copyright](http://rightsstatements.org/vocab/InC/1.0/)|
-| CBS News | 4 | Direct download via an embedded link on the website | [In Copyright - Rights-holder(s) Unlocatable or Unidentifiable](http://rightsstatements.org/vocab/InC-RUU/1.0/)and [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/)|
+| CBS News | 4 | Direct download via an embedded link on the website | [In Copyright - Rights-holder(s) Unlocatable or Unidentifiable](http://rightsstatements.org/vocab/InC-RUU/1.0/) and [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/)|
 
 # File inventory
 
