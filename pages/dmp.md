@@ -32,7 +32,7 @@ Each of us looked for 2-3 cases and found information and images to include in t
 
 | Source Institution | Number of Objects | How Accessed | Rights |
 | --- | --- | --- | --- |
-| FBI | 6 | Direct download via online catalog | Public Domain (https://creativecommons.org/publicdomain/mark/1.0/)|
+| FBI | 6 | Direct download via online catalog | [Public Domain] (https://creativecommons.org/publicdomain/mark/1.0/)|
 | Wikisource | 1 | Direct download via online catalog | Creative Commons License (https://creativecommons.org/licenses/by-sa/4.0/)|
 | UCLA Library Digital Collections | 1 | Direct download via online catalog | Creative Commons License (https://creativecommons.org/licenses/by-sa/4.0/)|
 | San Francisco Chronicle | 1 | Direct download via online catalog | In Copyright (http://rightsstatements.org/vocab/InC/1.0/)|
