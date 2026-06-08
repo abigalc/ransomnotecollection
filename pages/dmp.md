@@ -28,22 +28,20 @@ Each of us looked for 2-3 cases and found information and images to include in t
 | CSV | CollectionBuilder metadata spreadsheet | 1 | 3 KB |
 | MD | Pages controlling the content of the website | 11 | < 1 MB |
 
-
-
 # Source objects
 
 | Source Institution | Number of Objects | How Accessed | Rights |
 | --- | --- | --- | --- |
-| FBI | 6 | Direct download via online catalog | Public Domain [https://creativecommons.org/publicdomain/mark/1.0/] |
-| Wikisource | 1 | Direct download via online catalog | Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/] |
-| UCLA Library Digital Collections | 1 | Direct download via online catalog | Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/] |
-| San Francisco Chronicle | 1 | Direct download via online catalog | In Copyright [http://rightsstatements.org/vocab/InC/1.0/] |
-| Washington State University | 1 | Direct download via online catalog | In Copyright [http://rightsstatements.org/vocab/InC/1.0/] |
-| Pennsylvania Center for the Book | 1 | Direct download via online catalog | In Copyright [http://rightsstatements.org/vocab/InC/1.0/] |
-| Wikimedia Commons | 2 | Direct download via online catalog | Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/] |
-| Find a Grave  | 2 | Direct download via online catalog | In Copyright - Rights-holder(s) Unlocatable or Unidentifiable [http://rightsstatements.org/vocab/InC-RUU/1.0/] |
-| The Guardian | 1 | Direct download via online catalog | In Copyright [http://rightsstatements.org/vocab/InC/1.0/] |
-| CBS News | 4 | Direct download via an embedded link on the website | In Copyright - Rights-holder(s) Unlocatable or Unidentifiable [http://rightsstatements.org/vocab/InC-RUU/1.0/] and Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/] |
+| FBI | 6 | Direct download via online catalog | Public Domain [https://creativecommons.org/publicdomain/mark/1.0/]|
+| Wikisource | 1 | Direct download via online catalog | Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/]|
+| UCLA Library Digital Collections | 1 | Direct download via online catalog | Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/]|
+| San Francisco Chronicle | 1 | Direct download via online catalog | In Copyright [http://rightsstatements.org/vocab/InC/1.0/]|
+| Washington State University | 1 | Direct download via online catalog | In Copyright [http://rightsstatements.org/vocab/InC/1.0/]|
+| Pennsylvania Center for the Book | 1 | Direct download via online catalog | In Copyright [http://rightsstatements.org/vocab/InC/1.0/]|
+| Wikimedia Commons | 2 | Direct download via online catalog | Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/]|
+| Find a Grave  | 2 | Direct download via online catalog | In Copyright - Rights-holder(s) Unlocatable or Unidentifiable [http://rightsstatements.org/vocab/InC-RUU/1.0/]|
+| The Guardian | 1 | Direct download via online catalog | In Copyright [http://rightsstatements.org/vocab/InC/1.0/]|
+| CBS News | 4 | Direct download via an embedded link on the website | In Copyright - Rights-holder(s) Unlocatable or Unidentifiable [http://rightsstatements.org/vocab/InC-RUU/1.0/]and Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/]|
 
 # File inventory
 
@@ -63,7 +61,6 @@ During the project, our Files are stored in Google Drive, which is accessible on
 All of our files are shared between our personal emails to avoid the loss of our materials when our UO emails are closed. Currently, all of our sources and notes can be found in either GitHub or our Google Drive. We all have access to both sites. Our repository is public, but our Google Drive has access limited to the three of us. 
 
 After the term, we will not be maintaining the site. Our repository will stay public for as long as GitHub keeps it up. If there is an event where one of the members decides that they would like it taken down, it will be, although that is not anticipated.
-
 
 # Section 5: Access, Reuse & Rights
 
@@ -99,8 +96,8 @@ True crime as a genre is often criticized for sensationalizing violence and cent
 | Description | Explanation of the object | Newspaper discussing the multiple fake ransom notes that were created during the Dorothy Ann Distlehurst kidnapping | Used Google Sheets |
 | Date | The date the object was created or published | 05/22/1924 | Used Google to figure out when the notes were received and when the newspapers were published |
 | Subject | The name of the person who the image was about. If it were a ransom note, the subject would be the person kidnapped, and if it were a newspaper clipping or flyer, it would also be the person who got kidnapped. | Bobby Frank | Used Google Sheets |
-| Rights Statement | Rights statement obtained by checking the rights of each image in our collection. For example: If in the public domain, copyrighted, etc. | Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/] | Used either Creative Commons or rightsstatements.org to find rights statements. |
+| Rights Statement | Rights statement obtained by checking the rights of each image in our collection. For example: If in the public domain, copyrighted, etc. | Creative Commons License [https://creativecommons.org/licenses/by-sa/4.0/]| Used either Creative Commons or rightsstatements.org to find rights statements. |
 | Format | The data type of the files in our collection. | image/jpeg | For images that did not match the JPG format, use CloudConvert to change the image file into JPG. |
 | Object ID | How the object in our collection is identified, filename without jpg. | Mattsonransomnote | Used filenames just removed jpg, so it is easy to identify. |
-| Source | Link to websites where we found our images for our collection/information for each item.  | [https://www.fbi.gov/history/artifacts/coors-kidnapping-ransom-note] | Found sources through Googling information on our topic. |
+| Source | Link to websites where we found our images for our collection/information for each item.  | [https://www.fbi.gov/history/artifacts/coors-kidnapping-ransom-note]| Found sources through Googling information on our topic. |
 | Title | Title used on our collection site to identify each item. | Leopold and Loeb's ransom note for Bobby Franks | Used sources and picked out key information/created titles that are intriguing for each item in the collection. |
